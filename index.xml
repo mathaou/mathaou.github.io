@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Farstad | Full Stack Software Developer</title>
+    <link>https://simulion.biz/</link>
+    <description>Recent content on M. Farstad | Full Stack Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Aug 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://simulion.biz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>termdbms</title>
+      <link>https://simulion.biz/home/projects/termdbms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simulion.biz/home/projects/termdbms/</guid>
+      <description>A terminal user interface for SQLite that allows for viewing, querying, editing, and creating copies.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://simulion.biz/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simulion.biz/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vivamus Lacus Mauris</title>
+      <link>https://simulion.biz/post/test/</link>
+      <pubDate>Mon, 01 Aug 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://simulion.biz/post/test/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simulion.biz/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simulion.biz/home/subheader/</guid>
+      <description>I specialize in desktop and mobile applications, microcontrollers, and real-time embedded systems.
+I combine efficiency and robustness with a beautiful user experience.</description>
+    </item>
+    
+    <item>
+      <title>Desktop Applications</title>
+      <link>https://simulion.biz/home/services/desktop-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simulion.biz/home/services/desktop-applications/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve built single-page and multiple-page applications on &lt;strong&gt;Windows and Linux&lt;/strong&gt;. Use cases range from &lt;strong&gt;administrative assistance&lt;/strong&gt; to &lt;strong&gt;machine learning&lt;/strong&gt; to &lt;strong&gt;music composition&lt;/strong&gt;. And that&amp;rsquo;s just the software I was &lt;em&gt;paid&lt;/em&gt; to write.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Embedded IOT</title>
+      <link>https://simulion.biz/home/services/embedded-iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simulion.biz/home/services/embedded-iot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Label printer emulators, smart vending machines, Touch-screen UI, master/slave MCU message passing, and ultra-low-latency audio&lt;/strong&gt; are just a few of the direct contributions I have made in my career.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobile Applications</title>
+      <link>https://simulion.biz/home/services/mobile-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simulion.biz/home/services/mobile-applications/</guid>
+      <description>&lt;p&gt;By leveraging &lt;a href=&#34;https://flutter.dev/&#34;&gt;Flutter&lt;/a&gt; I target both &lt;strong&gt;Android&lt;/strong&gt; and &lt;strong&gt;iOS&lt;/strong&gt; at once. I can build mobile apps for any business need, &lt;em&gt;without&lt;/em&gt; sacrificing appearance or user experience.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
