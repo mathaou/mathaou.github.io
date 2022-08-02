@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on M. Farstad | Full Stack Software Developer</title>
-    <link>https://simulion.biz/home/services/</link>
+    <link>/home/services/</link>
     <description>Recent content in Services on M. Farstad | Full Stack Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://simulion.biz/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/home/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desktop Applications</title>
-      <link>https://simulion.biz/home/services/desktop-applications/</link>
+      <link>/home/services/desktop-applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://simulion.biz/home/services/desktop-applications/</guid>
+      <guid>/home/services/desktop-applications/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve built single-page and multiple-page applications on &lt;strong&gt;Windows and Linux&lt;/strong&gt;. Use cases range from &lt;strong&gt;administrative assistance&lt;/strong&gt; to &lt;strong&gt;machine learning&lt;/strong&gt; to &lt;strong&gt;music composition&lt;/strong&gt;. And that&amp;rsquo;s just the software I was &lt;em&gt;paid&lt;/em&gt; to write.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Embedded IOT</title>
-      <link>https://simulion.biz/home/services/embedded-iot/</link>
+      <link>/home/services/embedded-iot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://simulion.biz/home/services/embedded-iot/</guid>
+      <guid>/home/services/embedded-iot/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Label printer emulators, smart vending machines, Touch-screen UI, master/slave MCU message passing, and ultra-low-latency audio&lt;/strong&gt; are just a few of the direct contributions I have made in my career.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mobile Applications</title>
-      <link>https://simulion.biz/home/services/mobile-applications/</link>
+      <link>/home/services/mobile-applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://simulion.biz/home/services/mobile-applications/</guid>
+      <guid>/home/services/mobile-applications/</guid>
       <description>&lt;p&gt;By leveraging &lt;a href=&#34;https://flutter.dev/&#34;&gt;Flutter&lt;/a&gt; I target both &lt;strong&gt;Android&lt;/strong&gt; and &lt;strong&gt;iOS&lt;/strong&gt; at once. I can build mobile apps for any business need, &lt;em&gt;without&lt;/em&gt; sacrificing appearance or user experience.&lt;/p&gt;</description>
     </item>
     
