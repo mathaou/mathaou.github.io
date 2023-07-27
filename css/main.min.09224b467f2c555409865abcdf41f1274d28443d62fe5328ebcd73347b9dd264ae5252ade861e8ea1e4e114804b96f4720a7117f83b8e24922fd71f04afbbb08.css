@@ -3290,7 +3290,7 @@ button:disabled,
 }
 
 .wrapper.style5 header.major p {
-	color: #4e4852
+	color: #4e4852 !important
 }
 
 .wrapper.style5 label {
